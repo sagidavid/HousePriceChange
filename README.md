@@ -11,4 +11,4 @@ https://en.wikipedia.org/wiki/ONS_coding_system
 For UK regions We kept E12... and W92... N92... and S92 areas.  
 
 Regions shapefile has been downloaded from here:  
-https://borders.ukdataservice.ac.uk/easy_download_data.html?data=infuse_rgn_2011  
+http://geoportal.statistics.gov.uk/datasets/nuts-level-1-january-2018-full-clipped-boundaries-in-the-united-kingdom
